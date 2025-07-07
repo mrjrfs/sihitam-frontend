@@ -78,7 +78,7 @@ export default function HomePage() {
             AI-Powered <span className="text-blue-600">Hate Speech</span> Detection
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-            Advanced machine learning algorithms to identify and analyze hate speech in social media content, helping
+            <span className="font-bold">S.I.H.I.T.A.M</span> (Sistem Identifikasi Hate Speech dan Teks Agresif Multimedia). Advanced machine learning algorithms to identify and analyze hate speech in social media content, helping
             create safer online communities.
           </p>
         </div>
