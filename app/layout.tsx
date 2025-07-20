@@ -8,9 +8,8 @@ import { Footer } from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "HateSafe - AI-Powered Hate Speech Detection",
+  title: "S.I.H.I.T.A.M - AI-Powered Hate Speech Detection",
   description: "Advanced AI system for detecting and analyzing hate speech in social media content",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
