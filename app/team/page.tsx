@@ -7,7 +7,7 @@ const teamMembers = [
   {
     name: "Josep Ronaldo Francis Siregar",
     role: "Lead Team & Fullstack Web Developer",
-    bio: "Backend Engineer | Final year Student at Politeknik Caltex Riau.",
+    bio: "Passionate about building scalable web applications from front to back. Experienced in developing responsive user interfaces and robust backend systems using modern frameworks and tools.",
     image: "developer/josep-ronaldo-francis-siregar.jpg?height=300&width=300",
     skills: ["Backend Engineer", "System Administrator", "Python", "Next JS"],
     location: "Riau, Indonesia",
@@ -20,22 +20,22 @@ const teamMembers = [
   {
     name: "M. Avriansyah",
     role: "Data Scientist & Animation Enthusiast",
-    bio: "Senior developer with expertise in React, Node.js, and cloud architecture. Passionate about building scalable web applications.",
+    bio: "Blends analytical thinking with artistic curiosity. Skilled in uncovering insights from complex datasets using Python, machine learning, and data visualization tools. Outside the lab, passionate about animation storytelling, exploring the intersection of data, creativity, and motion.",
     image: "/developer/m-avriansyah.jpg?height=300&width=300",
-    skills: ["React", "Node.js", "TypeScript", "AWS"],
+    skills: ["Blender", "Animation", "Data Science"],
     location: "Riau, Indonesia",
     social: {
       github: "https://github.com",
       linkedin: "https://linkedin.com",
-      email: "marcus@hatesafe.com",
+      email: "m.avriansyah21ti@mahasiswa.pcr.ac.id",
     },
   },
   {
     name: "Muhamad Rafli Ashari",
-    role: "Data Scientist",
-    bio: "Specializes in social media data analysis and bias detection in AI systems. Former researcher at Google AI.",
+    role: "ML Researcher & Deep Learning Engineer",
+    bio: "Specializes in training machine learning models using large-scale social media datasets, with a focus on bias mitigation and ethical AI. Experienced in preprocessing, labeling, and curating high-quality datasets to improve model fairness and accuracy.",
     image: "/developer/muhamad-rafli-ashari.jpg?height=300&width=300",
-    skills: ["Data Science", "Python", "R", "Statistical Analysis"],
+    skills: ["Data Science", "Python", "TensorFlow"],
     location: "Depok, Indonesia",
     social: {
       github: "https://github.com",
