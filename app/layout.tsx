@@ -19,6 +19,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/icon.png" />
+        <meta name="theme-color" content="#ffffff" />
+      </head>
       <body className={inter.className}>
         <div className="min-h-screen flex flex-col">
           <Navbar />
