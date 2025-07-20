@@ -120,7 +120,7 @@ export default function HomePage() {
                 <div className="flex items-center">
                   <Shield className="h-8 w-8 text-blue-600 mr-3" />
                   <div>
-                    <p className="text-2xl font-bold text-gray-900">96.8%</p>
+                    <p className="text-2xl font-bold text-gray-900">80%</p>
                     <p className="text-sm text-gray-600">Model Accuracy</p>
                   </div>
                 </div>

@@ -53,18 +53,18 @@ export function Footer() {
             <h3 className="text-lg font-semibold mb-4">Resources</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="#" className="text-gray-300 hover:text-white transition-colors">
-                  Documentation
+                <Link target="_blank" href="https://www.kaggle.com/datasets/ilhamfp31/indonesian-abusive-and-hate-speech-twitter-text" className="text-gray-300 hover:text-white transition-colors">
+                  Datasets
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-300 hover:text-white transition-colors">
-                  API Reference
+                <Link target="_blank" href="https://github.com/mrjrfs/sihitam-backend" className="text-gray-300 hover:text-white transition-colors">
+                  Backend Repository
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-300 hover:text-white transition-colors">
-                  Privacy Policy
+                <Link target="_blank" href="https://github.com/mrjrfs/sihitam-frontend" className="text-gray-300 hover:text-white transition-colors">
+                  Frontend Repository
                 </Link>
               </li>
             </ul>

@@ -6,17 +6,17 @@ const technologies = [
   { name: "Python", category: "Backend" },
   { name: "TensorFlow", category: "AI/ML" },
   { name: "PyTorch", category: "AI/ML" },
-  { name: "BERT", category: "NLP" },
+  // { name: "BERT", category: "NLP" },
   { name: "Transformers", category: "NLP" },
   { name: "React", category: "Frontend" },
   { name: "Next.js", category: "Frontend" },
   { name: "TypeScript", category: "Frontend" },
-  { name: "Node.js", category: "Backend" },
-  { name: "PostgreSQL", category: "Database" },
-  { name: "Redis", category: "Cache" },
-  { name: "Docker", category: "DevOps" },
-  { name: "Kubernetes", category: "DevOps" },
-  { name: "AWS", category: "Cloud" },
+  // { name: "Node.js", category: "Backend" },
+  // { name: "PostgreSQL", category: "Database" },
+  // { name: "Redis", category: "Cache" },
+  { name: "Vercel", category: "DevOps" },
+  // { name: "Kubernetes", category: "DevOps" },
+  // { name: "AWS", category: "Cloud" },
 ]
 
 const features = [
@@ -55,12 +55,11 @@ const features = [
 ]
 
 const milestones = [
-  { year: "2022", event: "Project inception and initial research phase" },
-  { year: "2022", event: "First prototype model with 85% accuracy" },
-  { year: "2023", event: "Beta launch with select partners" },
-  { year: "2023", event: "Achieved 95% accuracy milestone" },
-  { year: "2024", event: "Public launch and 1M+ posts analyzed" },
-  { year: "2024", event: "Current: 96.8% accuracy and expanding globally" },
+  { year: "2024", event: "Learning about deep learning and AI" },
+  { year: "2025", event: "Started learning about NLP" },
+  { year: "2025", event: "Started learning about Transformers" },
+  { year: "2025", event: "Started deploying the model" },
+  { year: "2025", event: "Finished the project" },
 ]
 
 export default function AboutPage() {
