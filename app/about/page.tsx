@@ -4,6 +4,7 @@ import { Shield, Brain, Zap, Users, Target, Award, Code, Database } from "lucide
 
 const technologies = [
   { name: "Python", category: "Backend" },
+  { name: "Flask", category: "Backend" },
   { name: "TensorFlow", category: "AI/ML" },
   { name: "PyTorch", category: "AI/ML" },
   // { name: "BERT", category: "NLP" },
