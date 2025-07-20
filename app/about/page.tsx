@@ -70,12 +70,12 @@ export default function AboutPage() {
       <section className="py-20 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            About <span className="text-blue-600">HateSafe</span>
+            About <span className="text-blue-600">S.I.H.I.T.A.M</span> 
           </h1>
           <p className="text-xl text-gray-600 leading-relaxed">
-            HateSafe is an advanced AI-powered platform dedicated to detecting and preventing hate speech across digital
-            platforms. Our mission is to create safer online communities through cutting-edge machine learning
-            technology and responsible AI practices.
+            (Sistem Identifikasi Hate Speech dan Teks Agresif Multimedia).
+            Advanced machine learning algorithms to identify and analyze hate speech in social media content, helping
+            create safer online communities.
           </p>
         </div>
       </section>
